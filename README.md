@@ -1,49 +1,35 @@
-# BHTikTok++
-An awesome tweak for TikTok!
-
-# Telegram Channel 
-https://t.me/BHTikTokPlusPlus
-
-# Features
-- No Ads
-- Download Videos
-- Download HD Videos
-- Download Photos
-- Download Musics
-- Upload Region
-- Show Username
-- Disable Pull-to-refresh
-- Disable Unsensitive warning
-- Disable Warnings
-- Disable Live Broadcast
-- Skip Recommendations 
-- Remove Watermark
-- Show/Hide UI button
-- Copy video decription
-- Copy video link
-- Copy Music link
-- Auto Play Next Video
-- Show progress bar
-- Confirm like
-- Confirm comment like
-- Confirm comment dislike
-- Confirm follow
-- Save profile image
-- Copy profile information
-- Profile Video Count
-- Video Upload Date
-- Video Like Count
-- Always Upload In HD
-- Extend bio
-- Extend comment
-- Always open in Safari
-- Changing region
-- Fake verify blue mark
-- Fake Follower count
-- Fake Following count
-- Padlock
-
-# TODO
--  [ ] Add Localization for the tweak.
--  [x] Add HD Download
--  [ ] Story Download
+# Tính năng
+- Chặn quảng cáo
+- Tải video
+- Tải video HD
+- Tải ảnh
+- Tải nhạc
+- Hiển thị tên người dùng
+- Tắt tính năng kéo để làm mới
+- Tắt cảnh báo không nhạy cảm
+- Tắt cảnh báo
+- Tắt phát trực tiếp
+- Bỏ qua đề xuất
+- Xóa hình mờ
+- Nút hiển thị/ẩn giao diện người dùng
+- Sao chép mô tả video
+- Sao chép liên kết video
+- Sao chép liên kết nhạc
+- Tự động phát video tiếp theo
+- Xác nhận thích
+- Xác nhận thích bình luận
+- Xác nhận không thích bình luận
+- Xác nhận theo dõi
+- Lưu ảnh hồ sơ
+- Sao chép thông tin hồ sơ
+- Đếm video hồ sơ
+- Ngày tải video lên
+- Đếm lượt thích video
+- Luôn tải lên ở chế độ HD
+- Mở rộng tiểu sử
+- Mở rộng bình luận
+- Luôn mở trong Safari
+- Thay đổi vùng
+- Fake tích xanh (chỉ bạn thấy)
+- Fake người theo dõi (chỉ bạn thấy)
+- Fake người theo dõi (chỉ bạn thấy)
